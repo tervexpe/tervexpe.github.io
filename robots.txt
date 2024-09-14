@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tervexpe.github.io/sitemap.html.gz
+Sitemap: https://tervexpe.github.io/app/sitemap.html.gz
+Sitemap: https://tervexpe.github.io/assets/sitemap.html.gz
+Sitemap: https://tervexpe.github.io/css/sitemap.html.gz
+Sitemap: https://tervexpe.github.io/includes/sitemap.html.gz
+Sitemap: https://tervexpe.github.io/item/sitemap.html.gz
+Sitemap: https://tervexpe.github.io/src/sitemap.html.gz
